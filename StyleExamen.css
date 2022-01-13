@@ -1,0 +1,30 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+}
+
+#campus{
+    font-size: 50px;
+    color: rgb(0, 13, 202);
+}
+
+td{
+    text-align: left;
+    font-family: Arial;
+}
+
+th{
+    text-align: left;
+    font-family: Arial;
+    width: 250px;
+    background-color: rgb(216, 216, 216);
+}
+
+table{
+    border-color: rgb(0, 255, 191);
+    border-radius: 5px;
+    align-self: center;
+    margin: auto;
+}
+
+
